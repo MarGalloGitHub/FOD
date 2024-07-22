@@ -1,0 +1,6 @@
+Codigo:  1  Precio:  23  Stock Actual : 3  Stock Minimo    5
+  Nombre:  Banana
+Codigo:  2  Precio:  25  Stock Actual : 4  Stock Minimo    10
+  Nombre:  Manzana
+Codigo:  3  Precio:  28  Stock Actual : 6  Stock Minimo    8
+  Nombre:  Pera

@@ -1,0 +1,6 @@
+7777    2.0        miMarca
+1    10        elMasMejor
+elColoPhone
+8888    370.0        google
+15    40        innovador
+pixel7
